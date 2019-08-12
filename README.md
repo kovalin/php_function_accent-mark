@@ -1,8 +1,5 @@
-# php_function_accent_mark
-Use accent mark! Why not? ッ
-
 # What is it?
-This is practical use unicode symbols in name function.
+This is practical use unicode symbols in name function. Use accent mark or any symbols! Why not? ッ
 
 # How use?
 For example you can run command:
